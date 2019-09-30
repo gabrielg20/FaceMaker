@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Make a Frog!</string>
+    <string name="hairPrompt">Choose a hair style:</string>
+    <string-array name="hairStyles">
+        <item>Eye Lashes</item>
+        <item>Mustache</item>
+        <item>Goatee</item>
+    </string-array>
+</resources>
